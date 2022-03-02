@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-lmx41g/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-lmx41g/static/js/main.79b9886a.chunk.js",
-    "main.js.map": "https://.github.io/csb-lmx41g/static/js/main.79b9886a.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-lmx41g/static/js/runtime-main.6382d967.js",
-    "runtime-main.js.map": "https://.github.io/csb-lmx41g/static/js/runtime-main.6382d967.js.map",
-    "static/js/2.f80b19a3.chunk.js": "https://.github.io/csb-lmx41g/static/js/2.f80b19a3.chunk.js",
-    "static/js/2.f80b19a3.chunk.js.map": "https://.github.io/csb-lmx41g/static/js/2.f80b19a3.chunk.js.map",
-    "index.html": "https://.github.io/csb-lmx41g/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-lmx41g/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.f80b19a3.chunk.js.LICENSE.txt": "https://.github.io/csb-lmx41g/static/js/2.f80b19a3.chunk.js.LICENSE.txt"
+    "main.css": "https://zeeshankhalife.github.io/csb-lmx41g/static/css/main.15ee33fe.chunk.css",
+    "main.js": "https://zeeshankhalife.github.io/csb-lmx41g/static/js/main.09232898.chunk.js",
+    "main.js.map": "https://zeeshankhalife.github.io/csb-lmx41g/static/js/main.09232898.chunk.js.map",
+    "runtime-main.js": "https://zeeshankhalife.github.io/csb-lmx41g/static/js/runtime-main.eec80142.js",
+    "runtime-main.js.map": "https://zeeshankhalife.github.io/csb-lmx41g/static/js/runtime-main.eec80142.js.map",
+    "static/js/2.31c8451b.chunk.js": "https://zeeshankhalife.github.io/csb-lmx41g/static/js/2.31c8451b.chunk.js",
+    "static/js/2.31c8451b.chunk.js.map": "https://zeeshankhalife.github.io/csb-lmx41g/static/js/2.31c8451b.chunk.js.map",
+    "index.html": "https://zeeshankhalife.github.io/csb-lmx41g/index.html",
+    "static/css/main.15ee33fe.chunk.css.map": "https://zeeshankhalife.github.io/csb-lmx41g/static/css/main.15ee33fe.chunk.css.map",
+    "static/js/2.31c8451b.chunk.js.LICENSE.txt": "https://zeeshankhalife.github.io/csb-lmx41g/static/js/2.31c8451b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6382d967.js",
-    "static/js/2.f80b19a3.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.79b9886a.chunk.js"
+    "static/js/runtime-main.eec80142.js",
+    "static/js/2.31c8451b.chunk.js",
+    "static/css/main.15ee33fe.chunk.css",
+    "static/js/main.09232898.chunk.js"
   ]
 }
